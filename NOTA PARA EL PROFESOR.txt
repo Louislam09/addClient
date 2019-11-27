@@ -1,0 +1,6 @@
+Saludo profesor aqui le traigo la peticiones
+que me hizo todas hechas.
+
+Generé un html tambien el cual lo puede abrir desde la consola, tambien tiene estilo css.
+
+Espero que le gusto.
